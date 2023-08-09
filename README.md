@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Gamez</h1>
 <h3 align="center">A passionate backend developer from Texas!!</h3>
 
+
 - 📫 How to reach me **juan.gamez.cs@gmail.com**
 
 - ⚡ Fun fact **I have a degree in Music!!**
